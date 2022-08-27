@@ -1,0 +1,28 @@
+button:focus{
+  background-color: rgba(0, 149, 255, 0.41);
+}
+
+.bg-calculator {
+  background-color: rgba(0, 0, 0, 0.90);
+}
+
+.calculator-container {
+  max-width: 250px;
+  max-height: 420px;
+  display: block;
+}
+
+.visor {
+  min-height: 56px;
+}
+
+.calculator-numbers {
+  background-color: rgba(255, 255, 255, 0.10);
+  color: white;
+}
+
+.calculator-operators {
+  background-color: rgba(255, 255, 255, 0.35);
+  color: white;
+}
+
